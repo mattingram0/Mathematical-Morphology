@@ -16,6 +16,6 @@ python [program] [input] [output]
 ```
 
 where:
-*\[program\] is one of erosion.py, dilation.py, closing.py or opening.py,
-*\[input\] is the input image (most common image formats are supported), and 
-*\[output\] is the output image.
+* \[program\] is one of erosion.py, dilation.py, closing.py or opening.py,
+* \[input\] is the input image (most common image formats are supported), and 
+* \[output\] is the output image.
